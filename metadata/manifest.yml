@@ -3,6 +3,8 @@ Cartridge-Short-Name: ml
 Version: "1.0"
 Cartridge-Version: 1.0
 Cartridge-Vendor: ml
+Categories:
+  - web_framework
 Scaling:
   Min: 1
   Max: -1
