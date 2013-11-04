@@ -11,4 +11,4 @@ fi
 #
 # Publish this gear's HTTP URL/endpoint.
 #
-echo "${OPENSHIFT_GEAR_DNS}|${gip}:${OPENSHIFT_GO_PROXY_PORT}"
+echo "${OPENSHIFT_GEAR_DNS}|${gip}:${OPENSHIFT_ML_PROXY_PORT}"
